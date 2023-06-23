@@ -1,21 +1,30 @@
 # Chapter #
 
-## Topic A
+## Inventories 
 
-### Subtopic 
+### Intro/Why
+
+### Anatomy of Inv 
 Lorem ipsum
 
-## Topic B
+## Writing a playbook
 
-### Subtopic 
+### Tasks, Hosts, name, etc
 Lorem ipsum
 
-## Topic C
-
-### Subtopic 
+### Anatomy of a playbook
 Lorem ipsum
 
-## Topic D
+### How heap works here
+Lorem ipsum
 
-### Subtopic 
+## Ansible Commands
+
+### Ansible-navigator
+Lorem ipsum
+
+### Ansible-playbook
+Lorem ipsum
+
+### Ansible-doc
 Lorem ipsum
