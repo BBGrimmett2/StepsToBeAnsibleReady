@@ -1,21 +1,13 @@
-# Chapter #
+# Chapter1 #
 
-## Topic A
-
+## Definitions
 ### Subtopic 
 Lorem ipsum
 
-## Topic B
-
+## Hello World
 ### Subtopic 
 Lorem ipsum
 
-## Topic C
-
-### Subtopic 
-Lorem ipsum
-
-## Topic D
-
-### Subtopic 
+## Intro - Best Practices
+### Subtopic
 Lorem ipsum
